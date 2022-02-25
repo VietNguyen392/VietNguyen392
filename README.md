@@ -1,4 +1,4 @@
-<h1>Hi my name is <cite>Nguyen Hoang Viet</cite> Frontend and Flutter developer</h1>
+<h1>Hi my name is <cite>Nguyen Hoang Viet</cite> ,I'm Frontend and Flutter developer</h1>
 <h2 align="center">🛠 Skills & Tools 🛠</h2>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -17,7 +17,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-1572B6?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-039be5?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
