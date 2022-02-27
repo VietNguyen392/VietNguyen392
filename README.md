@@ -1,4 +1,4 @@
-<h1>Hi welcome to my github ,I'm Frontend and Flutter developer,have a nice day guy </h1>
+<h1>Hi welcome to my github ,I'm Frontend and Flutter developer </h1>
 <h2 align="center">🛠 Skills & Tools 🛠</h2>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></span>
