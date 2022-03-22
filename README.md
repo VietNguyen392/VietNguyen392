@@ -45,10 +45,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
-<h2 align=center>💻OS</h2>
 <span><img src="https://img.shields.io/badge/Debian-black?logo=debian&logoColor=purple" alt="Flutter logo" title="Flutter" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
+<h2 align=center> ☎ Contact</h2>
+<span><img src="https://img.shields.io/badge/Gmail-blue?logo=Mail&logoColor=red" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
 <h2 align=center>🎉Hobbies</h2>
 📺 Watch Manchester United play :)) </br>
