@@ -49,19 +49,19 @@
 <h2 align=center> ☎ Contact</h2>
 <span>
 <a href='mailto:nghoangviet2000@gmail.com'style='text-decoration:none'>
-<img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white" alt="Flutter logo" title="Mail" height="25" />
 </a>
 </span>
 &nbsp;
 <span>
 <a href='https://t.me/gordon_nguyen392'style='text-decoration:none'>
-<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Flutter logo" title="Telegram" height="25" />
 </a>
 </span>
 &nbsp;
 <span>
 <a href='https://join.skype.com/invite/UFdqrlWyO4cG'style='text-decoration:none'>
-<img src="https://img.shields.io/badge/Skype-blue?logo=skype&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/Skype-blue?logo=skype&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
 </a>
 </span>
 <h2 align=center>🎉Hobbies</h2>
