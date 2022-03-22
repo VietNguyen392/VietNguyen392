@@ -31,7 +31,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Heroku-430098?logo=styledcomponents&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Styled-Component-0d1117?logo=styledcomponents&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" /></span>
 &nbsp;
