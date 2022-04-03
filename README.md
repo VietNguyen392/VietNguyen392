@@ -46,6 +46,9 @@
 <span><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Debian-black?logo=debian&logoColor=purple" alt="Flutter logo" title="Flutter" height="25" /></span>
+&nbsp
+<span><img src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=purple" alt="Flutter logo" title="Flutter" height="25" /></span>
+
 <h2 align=center> ☎ Contact</h2>
 <span>
 <a href='mailto:nghoangviet2000@gmail.com'style='text-decoration:none'>
