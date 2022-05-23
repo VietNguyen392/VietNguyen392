@@ -69,4 +69,4 @@
 </span>
 <h2 align=center>🎉Hobbies</h2>
 📺 Watch Manchester United play :)) </br>
-Play 🎸,🎮,⚽🎱
+Play 🎸,🎮,🎱
