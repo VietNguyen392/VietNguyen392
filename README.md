@@ -70,3 +70,5 @@
 <h2 align=center>🎉Hobbies</h2>
 📺 Watch Manchester United play :)) </br>
 Play 🎸,🎮,🎱
+ <a href="https://app.daily.dev/gordon121"><img src="https://api.daily.dev/devcards/bb854e750ebb489e9c5d43b6c4c2adc0.png?r=ac5" width="400" alt="Danh Vô's Dev Card"/></a>         
+
