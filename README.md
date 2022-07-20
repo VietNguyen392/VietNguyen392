@@ -68,7 +68,7 @@
 </a>
 </span>
 <a href='http://m.me/vietnh.dev'style='text-decoration:none'>
-<img src="https://img.shields.io/badge/Messenger-#cb3fc9?logo=messenger&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
+<img src="https://img.shields.io/badge/Messenger-cb3fc9?logo=messenger&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
 </a>
 <h2 align=center>🎉Hobbies</h2>
 📺 Watch Manchester United play :)) </br>
