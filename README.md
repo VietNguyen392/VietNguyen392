@@ -63,7 +63,7 @@
 </span>
 &nbsp;
 <span>
-<a href='https://join.skype.com/invite/UFdqrlWyO4cG'style='text-decoration:none'>
+<a href='skype:live:.cid.46954c64d5b782d0'style='text-decoration:none'>
 <img src="https://img.shields.io/badge/Skype-blue?logo=skype&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
 </a>
 </span>
