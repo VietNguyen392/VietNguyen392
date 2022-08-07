@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Skype-blue?logo=skype&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
 </a>
        <a href='https://wa.me/0785644701'>
-       <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />
+       <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'  height="25"/>
        </a>
 </span>
 <a href='http://m.me/vietnh.dev'style='text-decoration:none'>
