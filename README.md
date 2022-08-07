@@ -66,9 +66,9 @@
 <a href='skype:live:.cid.46954c64d5b782d0'style='text-decoration:none'>
 <img src="https://img.shields.io/badge/Skype-blue?logo=skype&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
 </a>
-       <a href='https://wa.me/0785644701'>
-       <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'  height="25"/>
-       </a>
+ <a href='https://wa.me/0785644701' style='text-decoration:none'>
+ <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'  height="25"/>
+</a>
 </span>
 <a href='http://m.me/vietnh.dev'style='text-decoration:none'>
 <img src="https://img.shields.io/badge/Messenger-cb3fc9?logo=messenger&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
