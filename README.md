@@ -57,12 +57,6 @@
 </span>
 &nbsp;
 <span>
-<a href='https://t.me/gordon_nguyen392'style='text-decoration:none'>
-<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Flutter logo" title="Telegram" height="25" />
-</a>
-</span>
-&nbsp;
-<span>
 <a href='skype:live:.cid.46954c64d5b782d0'style='text-decoration:none'>
 <img src="https://img.shields.io/badge/Skype-blue?logo=skype&logoColor=white" alt="Flutter logo" title="Skype" height="25" />
 </a>
