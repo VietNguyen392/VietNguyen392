@@ -41,7 +41,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=black" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp
 <span><img src="https://img.shields.io/badge/Figma-black?logo=figma" alt="Flutter logo" title="Flutter" height="25" /></span>
 
