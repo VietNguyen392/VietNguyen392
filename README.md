@@ -21,8 +21,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -39,13 +37,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=yellow" alt="Visual Studio Code logo" title="Python" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-fff?logo=flutter&logoColor=blue" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Debian-black?logo=debian&logoColor=purple" alt="Flutter logo" title="Flutter" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=white" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp
 <span><img src="https://img.shields.io/badge/Figma-black?logo=figma" alt="Flutter logo" title="Flutter" height="25" /></span>
 
