@@ -44,13 +44,6 @@
 <span><img src="https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=black" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp
 <span><img src="https://img.shields.io/badge/Figma-black?logo=figma" alt="Flutter logo" title="Flutter" height="25" /></span>
-
-<h2 align=center> ☎ Contact</h2>
-<span>
-<a href='mailto:nghoangviet2000@gmail.com'style='text-decoration:none'>
-<img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white" alt="Flutter logo" title="Mail" height="25" />
-</a>
-</span>
 &nbsp;
 <span>
 <h2 align=center>🎉Hobbies</h2>
