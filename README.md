@@ -11,6 +11,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Redux-593D88?logo=vue&logoColor=green" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-fff?logo=express&logoColor=black" alt="Express.js logo" title="Express.js" height="25" /></span>
