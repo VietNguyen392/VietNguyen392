@@ -2,7 +2,7 @@
 
 _Product-Focused Software Engineer_  
 📞 0785 644 701 | ✉️ nghoangviet2000@gmail.com  
-🌐 [github.com/VietNguyen392](https://github.com/VietNguyen392) | [linkedin.com/in/viet-nguyen-186380214](https://linkedin.com/in/viet-nguyen-186380214)
+🌐 Linkedin [linkedin.com/in/viet-nguyen-186380214](https://linkedin.com/in/viet-nguyen-186380214)
 
 ---
 
